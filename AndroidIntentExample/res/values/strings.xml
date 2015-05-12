@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Intent01</string>
+    <string name="btn_txt">Go</string>
+    <string name="main_title_txt">MainActivity</string>    
+    <string name="sec_title_txt">AnotherActivity</string>    
+    
+</resources>

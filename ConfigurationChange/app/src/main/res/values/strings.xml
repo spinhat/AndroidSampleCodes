@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConfigurationChange</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="btn">Set Title</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

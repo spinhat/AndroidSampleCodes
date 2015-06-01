@@ -23,3 +23,5 @@
 # eclipse 
 .project
 .metadata/
+appcompat_v7
+.recommenders

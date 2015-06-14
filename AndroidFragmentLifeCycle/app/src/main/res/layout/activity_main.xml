@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".MainActivity" android:orientation="vertical">
+
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/btn_fragment_one" android:text="set fragmentOne" android:layout_height="wrap_content" android:layout_width="wrap_content"/>
+
+    <Button android:id="@+id/btn_fragment_two" android:text="set fragmentTwo" android:layout_height="wrap_content" android:layout_width="wrap_content"/>
+
+    <Button android:id="@+id/btn_remove" android:text="remove previous fragment" android:layout_height="wrap_content" android:layout_width="wrap_content"/>
+
+    <Button android:id="@+id/btn_next_activity" android:text="Next Activity" android:layout_height="wrap_content" android:layout_width="wrap_content"/>
+
+    <LinearLayout android:id="@+id/fragment_position"
+        android:layout_height="wrap_content" android:layout_width="wrap_content"
+        android:orientation="vertical" />
+
+
+</LinearLayout>
